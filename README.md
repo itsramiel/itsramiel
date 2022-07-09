@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Feed Me**
 
-- 🌱 I’m looking forward to lean **SwiftUI**
+- 🌱 I’m looking forward to learn **SwiftUI**
 
 - 👯 I’m looking to collaborate on **open source React Native projects**
 
