@@ -2,11 +2,12 @@
 <h3 align="center">Senior Software Developer, specialized in building mobile apps 📱</h3>
 
 
-- Working as a React Native Developer at **ONVY**
-- Production apps I worked on are: Onvy([ios](https://apps.apple.com/de/app/onvy-ai-health-coach/id1580933137), [android](https://play.google.com/store/apps/details?id=health.onvy&hl=en)) and Feed Me([ios](https://apps.apple.com/us/app/feed-me-cyprus/id1273734194), [android](https://play.google.com/store/apps/details?id=com.mobilon.feedmecyprus&hl=en))
-- Learning iOS(soon Android) development with UIKit
+- Experiences in production: 
+    - Building the mobile frontend of the World's Smartest AI Health Coach 🤖, Onvy ([ios](https://apps.apple.com/de/app/onvy-ai-health-coach/id1580933137), [android](https://play.google.com/store/apps/details?id=health.onvy&hl=en))
+    - Leading the Cordova to React Native migration of the top food ordering app in Cyprus, Feed Me([ios](https://apps.apple.com/us/app/feed-me-cyprus/id1273734194), [android](https://play.google.com/store/apps/details?id=com.mobilon.feedmecyprus&hl=en))
+- Currently learning iOS development with UIKit
     - Apps built to learn UIKit: [Github Followers](https://github.com/itsramiel/Github-Followers-UIKit) by [Sean Allen](https://seanallen.teachable.com/)
-- Create youtube videos about topics I find interesting, take a look [here](https://www.youtube.com/@ramielwan48) if you interested
+- Post [youtube videos](https://www.youtube.com/@ramielwan48) around topics such as native module development in React Native ⚛︎
 - Love contributing to open source whenever I find a chance, some of my contributons are to:
     - [amplify-js](https://github.com/aws-amplify/amplify-js/pull/13536)
     - [@gorhom/bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet/pull/1095)
