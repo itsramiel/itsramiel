@@ -6,7 +6,9 @@
     - Building the mobile frontend of the World's Smartest AI Health Coach 🤖, Onvy ([ios](https://apps.apple.com/de/app/onvy-ai-health-coach/id1580933137), [android](https://play.google.com/store/apps/details?id=health.onvy&hl=en))
     - Leading the Cordova to React Native migration of the top food ordering app in Cyprus, Feed Me([ios](https://apps.apple.com/us/app/feed-me-cyprus/id1273734194), [android](https://play.google.com/store/apps/details?id=com.mobilon.feedmecyprus&hl=en))
 - Currently learning iOS development with UIKit
-    - Apps built to learn UIKit: [Github Followers](https://github.com/itsramiel/Github-Followers-UIKit) by [Sean Allen](https://seanallen.teachable.com/)
+    - Apps built to learn UIKit: 
+        - [Github Followers](https://github.com/itsramiel/Github-Followers-UIKit) by [Sean Allen](https://seanallen.teachable.com/)
+        - [Spotify Clone](https://github.com/itsramiel/Spotify-Clone-UIKit) by [iOS Academy](https://iosacademy.io/)
 - Post [youtube videos](https://www.youtube.com/@ramielwan48) around topics such as native module development in React Native ⚛︎
 - Love contributing to open source whenever I find a chance, some of my contributons are to:
     - [amplify-js](https://github.com/aws-amplify/amplify-js/pull/13536)
